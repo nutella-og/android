@@ -37,7 +37,7 @@ familiar with [Git and Repo](https://source.android.com/source/using-repo.html).
 
 To initialize your local repository using the moddified AOSP trees, use a command like this:
 
-    repo init -u git://github.com/nutella-og/android.git -b android-7.0.0_r1
+    repo init -u git://github.com/nutella-og/android.git -b nougat
 
 Then to sync up:
 
