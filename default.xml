@@ -517,8 +517,8 @@
   <project path="tools/test/connectivity" name="platform/tools/test/connectivity" />
   <project path="tools/tradefederation" name="platform/tools/tradefederation" groups="notdefault,tradefed" />
 
-
  <project path="device/lge/geehrc" name="android_device_lge_geehrc" remote="nutella-og" revision="nougat" />
  <project path="kernel/lge/gee" name="android_kernel_lge_gee" remote="nutella-og" revision="nougat" />
  <project path="vendor/lge/gee" name="proprietary_vendor_lge_gee" remote="nutella-og" revision="nougat" />
+ <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.8" name="platform/prebuilts/gcc/linux-x86/arm/arm-eabi-4.8" revision="master"/> 
 </manifest>
